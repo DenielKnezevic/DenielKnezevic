@@ -1,7 +1,10 @@
 ### <div align="center">I'm Deniel, 4th year student at Faculty of information technologies</div>  
   
 
-- 🔭 I’m currently working on [UniquePlanners.API](https://github.com/DenielKnezevic/UniquePlanners.API)  
+- 🔭 I’m currently working on [UniquePlanners.API](https://github.com/DenielKnezevic/UniquePlanners.API)
+
+
+- 🔭 I’m currently working on [UniquePlanners.Angular](https://github.com/DenielKnezevic/UniquePlanners.Angular)
   
 
 - 🌱 I’m currently learning ASP.NET Core in depth  
